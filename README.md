@@ -1,8 +1,8 @@
-# Fintech Payment Analytics & Fraud Detection
+# A comprehensive SQL-based analytics project with interactive Tableau visualizations, demonstrating advanced fraud detection techniques and business intelligence reporting for financial transaction systems.
 
 A comprehensive SQL-based analytics project demonstrating advanced fraud detection techniques and business intelligence reporting for financial transaction systems.
 
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue) ![Data Analysis](https://img.shields.io/badge/Analytics-Expert-green)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue) ![Data Analysis](https://img.shields.io/badge/Analytics-Expert-green) ![Tableau](https://img.shields.io/badge/Tableau-Public-orange)
 
 ## Overview
 
@@ -45,6 +45,12 @@ fintech-payment-analytics/
 - **Parameterized functions** for flexible analysis
 - **Statistical analysis** using Z-score and percentile methods
 
+### Data Visualization
+- **Interactive Tableau dashboards** with executive KPI monitoring
+- **Real-time filtering** and drill-down capabilities
+- **Multi-dimensional analysis** across time, amount, and patterns
+- **Professional data storytelling** for stakeholder presentations
+
 ## Results Summary
 
 | Metric | Value | Performance |
@@ -53,6 +59,42 @@ fintech-payment-analytics/
 | **Fraud Detection Rate** | 0.173% |  |
 | **Total Fraud Loss** | €60,128 | 0.239% of total volume |
 | **V3 Method Precision** | 89.66% | Best-performing algorithm |
+
+## 📊 Interactive Dashboard
+
+[![Fraud Detection Dashboard](Screenshot%202025-08-30%20at%2014.36.29.png)](https://public.tableau.com/shared/XNMQR8H3S?:display_count=n&:origin=viz_share_link)
+*Click image above to view interactive dashboard*
+
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/shared/XNMQR8H3S?:display_count=n&:origin=viz_share_link)**
+
+### Dashboard Components:
+
+#### **Executive KPI Overview**
+- **284,807** total transactions processed
+- **492** fraud cases detected (0.17% rate)
+- **€25.16M** total transaction volume
+- **€60,128** fraud loss (0.239% of volume)
+
+#### **24-Hour Fraud Pattern Analysis**
+- **Peak risk period**: 02:00-04:00 hours (1.7% fraud rate)
+- **10x higher** fraud rate during early morning vs business hours
+- **Safest period**: Business hours (08:00-12:00) with 0.1% fraud rate
+
+#### **Transaction Segment Analysis**
+- **Premium (>€1000)**: Highest risk at 0.306% fraud rate
+- **Large (€200-1000)**: Primary fraud target at 0.293% rate
+- **Medium/Small**: Lower risk segments requiring moderate monitoring
+
+#### **V3 Feature Analysis**
+- **Scientific proof** of 89.66% precision with clear fraud/normal separation
+- **Visual evidence** of V3 dominance in fraud detection methodology
+- **Pattern recognition** showing extreme negative V3 values indicate fraud
+
+### Interactive Features:
+- **Real-time filtering** and drill-down capabilities
+- **Multi-dimensional analysis** across time, amount, and feature patterns
+- **Executive-ready insights** for operational decision making
+- **Color-coded risk indicators** for immediate threat assessment
 
 ## Key Findings
 
