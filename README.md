@@ -8,7 +8,7 @@ A comprehensive SQL-based analytics project demonstrating advanced fraud detecti
 
 This project implements a complete fraud detection and business intelligence system using advanced SQL analytics. The system processes over 280K financial transactions to identify fraud patterns, optimize detection algorithms, and provide executive-level business insights.
 
-**Dataset**: Credit card fraud detection data (284,807 transactions, 492 fraud cases) | [Download fraud detection dataset from Kaggle](https://www.kaggle.com/datasets/ranjitmandal/fraud-detection-dataset-csv)
+**Dataset**: Credit card fraud detection data (284,807 transactions, 492 fraud cases) | [Download fraud detection dataset from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 
 **Key Achievement**: 89.66% precision fraud detection using pattern analysis
 
